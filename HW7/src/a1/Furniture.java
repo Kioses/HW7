@@ -1,4 +1,4 @@
-package main;
+package a1;
 
 public class Furniture implements HouseholdItem{
 	

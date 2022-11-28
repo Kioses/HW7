@@ -1,4 +1,4 @@
-package main;
+package a1;
 
 public interface Visitor {
 	
